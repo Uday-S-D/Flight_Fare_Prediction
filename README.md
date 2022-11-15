@@ -79,9 +79,6 @@ python app.py
 
 
 # Project Deployed Link
+https://knowyourflightfare.herokuapp.com/
 
 
-
-
-
-# Project Deployed Link
